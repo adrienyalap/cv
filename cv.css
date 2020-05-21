@@ -10,7 +10,7 @@ h2 {
 	background: url('image/fond_noir.jpg');
 	color : white;
 	padding: 15px;
-	font-size: 30px
+	font-size: 30px;
 }
 
 #bleu {
@@ -33,7 +33,7 @@ header {
 }
 
 img {
-	margin-left: 20%
+	margin-left: 20%;
 }
 
 
@@ -44,7 +44,7 @@ img {
 	flex-direction: column;
 	border: 1px solid;
 	width: 20%; height: 100%;
-	background-color: #615e5e
+	background-color: #615e5e;
 }
 
 article {
@@ -54,7 +54,7 @@ article {
 	margin-bottom: 40%;
 	margin-top: 5%;
 	box-shadow: 5px 5px 5px;
-	border-radius: 5%
+	border-radius: 5%;
 }
 
 section {
@@ -70,8 +70,6 @@ aside {
 	margin-top: 5%;
 	margin-right: 5%;
 	box-shadow: 5px 5px 5px;
-	border-radius: 5%
+	border-radius: 5%;
 }
-
-/*media queries*/
 
